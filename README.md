@@ -21,45 +21,45 @@ This is a Simple College Management System Developed for Educational Purpose usi
 
 7. View Student Attendance
 
-Review and Reply Student/Staff Feedback
+8. Review and Reply Student/Staff Feedback
 
-Review (Approve/Reject) Student/Staff Leave
+9. Review (Approve/Reject) Student/Staff Leave
 
-Update Profile
+10. Update Profile
 
-Login/Logout
+11. Login/Logout
 
 # B. Staff/Teachers Can
 
-See the Overall Summary Charts related to their students, their subjects, leave status, etc.
+1. See the Overall Summary Charts related to their students, their subjects, leave status, etc.
 
-Take/Update Students Attendance
+2. Take/Update Students Attendance
 
-Add/Update Result
+3. Add/Update Result
 
-Apply for Leave
+4. Apply for Leave
 
-Send Feedback to HOD
+5. Send Feedback to HOD
 
-Update Profile
+6. Update Profile
 
-Login/Logout
+7. Login/Logout
 
 # C. Students Can
 
-See the Overall Summary Charts related to their attendance, their subjects, leave status, etc.
+1. See the Overall Summary Charts related to their attendance, their subjects, leave status, etc.
 
-View Attendance
+2. View Attendance
 
-View Result
+3. View Result
 
-Apply for Leave
+4. Apply for Leave
 
-Send Feedback to HOD
+5. Send Feedback to HOD
 
-Update Profile
+6. Update Profile
 
-Login/Logout
+7. Login/Logout
 
 # Tech Stacks
 
@@ -188,6 +188,4 @@ HOD View Attendance Data
 Add Student Results From Staff Panel
 ![image](https://user-images.githubusercontent.com/52338664/131296269-0066e46d-7581-4a81-8d72-40ac8c5a2bf3.png)
 
-Email_id should be in following format:
 
-<username>.<staff|student|hod>@<college_domain>
